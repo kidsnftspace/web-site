@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.911dc11e.css",
+    "main.js": "/static/js/main.5f332984.js",
+    "static/media/5.jpg": "/static/media/5.1adb1e5b3465daa3e5ee.jpg",
+    "static/media/1.jpg": "/static/media/1.bb0575102dc499669f24.jpg",
+    "static/media/4.jpg": "/static/media/4.67aa8b2d0b5716c34785.jpg",
+    "static/media/2.jpg": "/static/media/2.b2246a838830ce660ae2.jpg",
+    "static/media/3.jpg": "/static/media/3.082d5e13686a1474af35.jpg",
+    "static/media/marina_inrish.png": "/static/media/marina_inrish.60c22892bc6f24aa11af.png",
+    "static/media/gleb_blessed.png": "/static/media/gleb_blessed.d06564c9e22d2519a7ab.png",
+    "static/media/nikolay_kianco.png": "/static/media/nikolay_kianco.04dd8a8a93b8330b5db2.png",
+    "static/media/andrey_burs.png": "/static/media/andrey_burs.461907ea58c4cf09e08d.png",
+    "static/media/alexey_bogatov.png": "/static/media/alexey_bogatov.f333d98a66af52b9084b.png",
+    "static/media/ilya_bellum.png": "/static/media/ilya_bellum.13b8319b04e3503993e0.png",
+    "static/media/alex_pit.png": "/static/media/alex_pit.fee52af697b59ae931fd.png",
+    "static/media/4.png": "/static/media/4.56afb91b9136940786d9.png",
+    "static/media/1.png": "/static/media/1.0fe9c533edb708bc4757.png",
+    "static/media/2.png": "/static/media/2.15c2f977c4208c7e0f53.png",
+    "static/media/3.png": "/static/media/3.935f385da148fbf7ac13.png",
+    "index.html": "/index.html",
+    "main.911dc11e.css.map": "/static/css/main.911dc11e.css.map",
+    "main.5f332984.js.map": "/static/js/main.5f332984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.911dc11e.css",
+    "static/js/main.5f332984.js"
+  ]
+}
